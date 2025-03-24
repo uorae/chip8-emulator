@@ -1,1 +1,1 @@
-# chip8-emulator
+a chip-8 emulator (wip)
